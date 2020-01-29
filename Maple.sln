@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29424.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maple", "Maple\Maple.csproj", "{0803730A-453F-4515-AC6C-7AB26DEB57D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0803730A-453F-4515-AC6C-7AB26DEB57D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0803730A-453F-4515-AC6C-7AB26DEB57D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0803730A-453F-4515-AC6C-7AB26DEB57D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0803730A-453F-4515-AC6C-7AB26DEB57D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7017B4BB-86DA-4B36-9328-3DDFA5B4CB64}
+	EndGlobalSection
+EndGlobal
